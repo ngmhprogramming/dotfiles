@@ -7,6 +7,7 @@
 ### Utilties
 - chromium (Browser)
 - feh (Picture Viewer)
+- shotwell (Picture Manager)
 - mpv (Video Viewer)
 - audacious (Music Viewer)
 - youtube-dl (Youtube Downloader)
@@ -22,9 +23,15 @@
 ### Coding
 - arduino (Arduino IDE)
 - code (Code Editor)
-- CP Editor (Not a Package)
 - python-pip (Python Package Manager)
 
 ### Gaming
-- mupen64plus
-- wpm (PIP typeracer)
+- mupen64plus (n64 Emulator)
+- retroarch (???)
+
+### Random
+- cmatrix (Hackerman)
+
+## Others
+- CP Editor (Editor with I/O)
+- wpm (Typeracer)
