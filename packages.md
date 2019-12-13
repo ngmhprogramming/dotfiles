@@ -23,6 +23,8 @@
 - arduino (Arduino IDE)
 - code (Code Editor)
 - CP Editor (Not a Package)
+- python-pip (Python Package Manager)
 
 ### Gaming
 - mupen64plus
+- wpm (PIP typeracer)
