@@ -13,6 +13,7 @@
 - youtube-dl (Youtube Downloader)
 - lemonbar (Status Bar) X
 - openvpn (VPN) X
+- lsd (Better ls)
 
 ### Work
 - thunderbird (Email) X
