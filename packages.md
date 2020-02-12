@@ -25,6 +25,7 @@
 - arduino (Arduino IDE)
 - code (Code Editor)
 - python-pip (Python Package Manager)
+- npm (Node Package Manager)
 
 ### Gaming
 - mupen64plus (n64 Emulator)
