@@ -6,14 +6,20 @@
 options snd_pch index=0
 options snd_hda_intel index=1
 ```
-## 3. Fix Time
+## 3. Update pacman
+```
+sudo pacman-mirrors -f0
+sudo pacman -Syyuu
+```
+
+## 4. Fix Time
 ```
 sudo pacman -S ntp
 sudo timedatectl set-ntp true
 ```
-## 4. Terminal Changes
+## 5. Terminal Changes
 ```
 compton smth
 ```
-## 5. Warnings
+## 6. Warnings
 ### DO NOT INSTALL SUBLIME UNLESS YOU WANT TO DIE
