@@ -26,6 +26,8 @@
 - code (Code Editor)
 - python-pip (Python Package Manager)
 - npm (Node Package Manager)
+- android-studio ()
+- flutter ()
 
 ### Gaming
 - mupen64plus (n64 Emulator)
